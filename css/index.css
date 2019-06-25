@@ -1,12 +1,59 @@
-body{
-	margin: auto;
-    background:#e3e3e3;
-    width:600px;
-}
-blockquote
-{
-	border:1px solid white;
-    margin-left:0;
-    text-align:center;
 
+body{
+    background-color:#eeeeee;
+}
+header h1{
+    text-align: center;
+    font-family:75px;
+    background-color:#e3e3e3;
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 25px;
+}
+
+
+a{
+    text-decoration: none;
+    font-size:20px;
+}
+a:hover{
+    text-decoration: underline;
+    color:gray;
+}
+section p{
+    background-color:#e3e3e3;
+
+    
+}
+
+
+img{
+    margin-top:10px;
+    margin-left: 18px;
+}
+h4:hover{
+       text-decoration: underline;
+       color:rosybrown;
+}
+p{
+    font-size:20px;
+    text-align:15px;
+}
+.img{
+    margin-left: 18%;
+}
+section{
+    padding:10px;
+    width:30%;
+    float:left;
+}
+
+footer{ 
+    margin-top:300px;
+    color:blue;
+    text-align:center;
+    background-color:#e3e3e3;
+  
 }
